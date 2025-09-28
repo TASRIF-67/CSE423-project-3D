@@ -89,7 +89,7 @@ solution_tracking = {
         'display_time': 0,
         'duration': 2.0    # Show color feedback for 2 seconds
     },
-    'wrong_move_correction': None  # Add this line
+    'wrong_move_correction': None 
 }
 
 class Cubelet:
